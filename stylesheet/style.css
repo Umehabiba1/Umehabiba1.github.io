@@ -2996,7 +2996,7 @@ nav.c-main-nav .c-main-nav-links .page-link .children__title .c-accordion .c-acc
 }
 
 .c-block .c-block-title {
-    max-width: 45rem;
+    max-width: 62rem;
     padding: 0 0 1.5rem
 }
 
@@ -6588,7 +6588,8 @@ nav.c-main-nav .c-main-nav-logo a.logo-container img {
 
 @media screen and (min-width: 992px) {
     nav.c-main-nav .c-main-nav-logo a.logo-container img {
-        max-width: 10.3125em
+        /* max-width: 10.3125em */
+        max-width: 5.3125em;
     }
 }
 
@@ -8564,7 +8565,7 @@ nav.c-main-nav .c-main-nav-links .page-link .children__title .c-block--page-link
 .restuls-page-header .restuls-page-header-inner .c-block--page-links .c-page-link__content h1 {
     color: black;
     /* max-width: 14.375rem; */
-    text-align: center;
+    /* text-align: center; */
     transition: color 0.45s ease
 }
 
