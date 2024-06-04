@@ -8563,7 +8563,8 @@ nav.c-main-nav .c-main-nav-links .page-link .children__title .c-block--page-link
 .c-block--page-links .c-page-link__content .restuls-page-header .restuls-page-header-inner h1,
 .restuls-page-header .restuls-page-header-inner .c-block--page-links .c-page-link__content h1 {
     color: black;
-    max-width: 14.375rem;
+    /* max-width: 14.375rem; */
+    text-align: center;
     transition: color 0.45s ease
 }
 
